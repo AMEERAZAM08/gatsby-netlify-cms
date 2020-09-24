@@ -3,7 +3,7 @@ templateKey: home-page
 headerImage:
   image: /img/television.png
   imageAlt: JavaScript Wakanda
-title: Meet other JavaScript Developers in Wakanda
+title: Meet other Python Developers in India
 upcomingMeetupHeading: Upcoming Meetup
 noUpcomingMeetupText: Details to be announced.
 mapsNote: Clicking the pin opens Google Maps in a new tab.
@@ -16,13 +16,12 @@ callToActions:
   secondCTA:
     heading: Volunteer to Present
     linkType: external
-    linkURL: 'mailto:contact@js-wakanda.org'
+    linkURL: 'Pythoguard2020@gmail.com'
     subHeading: Want to present at an upcoming meetup? Contact us.
 seo:
-  browserTitle: JS Wakanda
+  browserTitle: Pythoguard India
   description: >-
     JavaScript meetup group in Wakanda where JavaScript developers get together
     for presentations and to meet others in the community.
-  title: JavaScript Wakanda
+  title: Pythoguard India
 ---
-
