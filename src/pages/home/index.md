@@ -2,7 +2,7 @@
 templateKey: home-page
 headerImage:
   image: /img/television.png
-  imageAlt: JavaScript Wakanda
+  imageAlt: Pythoguard India
 title: Meet other Python Developers in India
 upcomingMeetupHeading: Upcoming Meetup
 noUpcomingMeetupText: Details to be announced.
@@ -21,7 +21,7 @@ callToActions:
 seo:
   browserTitle: Pythoguard India
   description: >-
-    JavaScript meetup group in Wakanda where JavaScript developers get together
+    Python meetup group in India where python developers get together
     for presentations and to meet others in the community.
   title: Pythoguard India
 ---
